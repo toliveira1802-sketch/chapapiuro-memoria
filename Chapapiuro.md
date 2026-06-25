@@ -8,3 +8,4 @@
 - o Thales quer levantar faturas de cartões para identificar onde estão as assinaturas
 - o Thales trabalha em uma oficina
 - o Thales admira o trabalho do Dr. Felipe pelo podcast
+- o Thales se encontrou pessoalmente com o Dr. Felipe em um barbeiro
