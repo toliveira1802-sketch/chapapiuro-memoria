@@ -15,3 +15,6 @@
 - Pedro é sobre retrofit na multimídia
 - o Thales quer configurar um cron job para acessar o ultracar e gerar relatórios
 - o Thales quer definir um padrão de salvamento para arquivos no computador pessoal
+- o Thales é Corinthiano
+- o Thales quer atualizações do Corinthians após o briefing matinal
+- o Thales quer procurar sobre o Corinthians todos os dias em meutimao.com.br
