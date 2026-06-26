@@ -18,3 +18,4 @@
 - o Thales é Corinthiano
 - o Thales quer atualizações do Corinthians após o briefing matinal
 - o Thales quer procurar sobre o Corinthians todos os dias em meutimao.com.br
+- o Thales quer montar acompanhamentos financeiros (EBITDA, DRE e outros) da oficina
