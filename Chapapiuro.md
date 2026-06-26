@@ -13,3 +13,5 @@
 - o Thales precisa falar com Pedro 991711787
 - Márcia Fleury é sobre Amarok branca da turbina
 - Pedro é sobre retrofit na multimídia
+- o Thales quer configurar um cron job para acessar o ultracar e gerar relatórios
+- o Thales quer definir um padrão de salvamento para arquivos no computador pessoal
