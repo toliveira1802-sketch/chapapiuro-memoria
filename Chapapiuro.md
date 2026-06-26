@@ -10,3 +10,6 @@
 - o Thales admira o trabalho do Dr. Felipe pelo podcast
 - o Thales se encontrou pessoalmente com o Dr. Felipe em um barbeiro
 - o Thales precisa falar com Márcia Fleury (984773811)
+- o Thales precisa falar com Pedro 991711787
+- Márcia Fleury é sobre Amarok branca da turbina
+- Pedro é sobre retrofit na multimídia
