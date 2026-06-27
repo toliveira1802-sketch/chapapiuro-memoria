@@ -20,3 +20,4 @@
 - o Thales quer procurar sobre o Corinthians todos os dias em meutimao.com.br
 - o Thales quer montar acompanhamentos financeiros (EBITDA, DRE e outros) da oficina
 - o Thales prefere conversas mais desenroladas e sagazes
+- o Thales quer estudar sobre Mindfulness, meditação e observação dos pensamentos
