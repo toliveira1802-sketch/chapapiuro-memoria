@@ -21,3 +21,5 @@
 - o Thales quer montar acompanhamentos financeiros (EBITDA, DRE e outros) da oficina
 - o Thales prefere conversas mais desenroladas e sagazes
 - o Thales quer estudar sobre Mindfulness, meditação e observação dos pensamentos
+- o Thales quer documentar atalhos para Chapapiuro no Obsidian
+- o Thales quer criar um projeto de sistema CRM
