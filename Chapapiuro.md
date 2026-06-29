@@ -27,3 +27,7 @@
 - o Thales quer criar um painel de tasks
 - o Thales quer um lembrete diário às 17h00 para revisar clientes de aniversário em julho/2026 e clientes inativos
 - o Thales quer classificar os clientes por telefone neste fluxo
+- Criar dashboard principal
+- Criar planiljhas de gastos e dividas
+- Criar pastas de consultas e fluxos
+	
