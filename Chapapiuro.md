@@ -24,3 +24,4 @@
 - o Thales quer documentar atalhos para Chapapiuro no Obsidian
 - o Thales quer criar um projeto de sistema CRM
 - o Thales quer um fluxo automático de aniversários com mala direta parabenizando clientes
+- o Thales quer criar um painel de tasks
