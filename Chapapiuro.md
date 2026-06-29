@@ -23,3 +23,4 @@
 - o Thales quer estudar sobre Mindfulness, meditação e observação dos pensamentos
 - o Thales quer documentar atalhos para Chapapiuro no Obsidian
 - o Thales quer criar um projeto de sistema CRM
+- o Thales quer um fluxo automático de aniversários com mala direta parabenizando clientes
