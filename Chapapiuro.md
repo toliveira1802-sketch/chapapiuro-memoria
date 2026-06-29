@@ -25,3 +25,5 @@
 - o Thales quer criar um projeto de sistema CRM
 - o Thales quer um fluxo automático de aniversários com mala direta parabenizando clientes
 - o Thales quer criar um painel de tasks
+- o Thales quer um lembrete diário às 17h00 para revisar clientes de aniversário em julho/2026 e clientes inativos
+- o Thales quer classificar os clientes por telefone neste fluxo
